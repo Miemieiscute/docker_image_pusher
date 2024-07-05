@@ -10,4 +10,4 @@
 #jellyfin/jellyfin:latest
 #linuxserver/qbittorrent
 #whyour/qinglong:latest
-home-assistant/home-assistant:stable
+homeassistant/home-assistant
