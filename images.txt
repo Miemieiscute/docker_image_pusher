@@ -9,4 +9,4 @@
 louislam/uptime-kuma:1
 #jellyfin/jellyfin:latest
 #linuxserver/qbittorrent
-whyour/qinglong:latest
+#whyour/qinglong:latest
