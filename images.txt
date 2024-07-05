@@ -5,4 +5,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #feidee/cab:1.4
 #nextcloud:latest
-hslr/sun-panel:latest
+#hslr/sun-panel:latest
+louislam/uptime-kuma
+jellyfin/jellyfin:latest
+linuxserver/qbittorrent
