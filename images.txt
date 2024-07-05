@@ -6,7 +6,7 @@
 #feidee/cab:1.4
 #nextcloud:latest
 #hslr/sun-panel:latest
-#louislam/uptime-kuma
+louislam/uptime-kuma:1
 #jellyfin/jellyfin:latest
 #linuxserver/qbittorrent
 whyour/qinglong:latest
